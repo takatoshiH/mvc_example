@@ -11,5 +11,4 @@
 
         protected $fillable = ["title", "author"];
         protected $dates = ["created_at", "updated_at"];
-
     }
